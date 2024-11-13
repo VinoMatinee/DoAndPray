@@ -1,0 +1,144 @@
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 
+IIS 7버전 이상에서는 기본값으로 컨텐츠용량 31457280byte(30MB), 다운로드 4194304byte(4MB), 업로드 200000byte(0.2MB)로 제한하고 있습니다. 
+등록된 웹 사이트의 루트 디렉토리에 있는 web.config 파일 내 security 아래에 다음 항목을 추가하세요. 
+<requestFiltering> 
+    <requestLimits maxAllowedContentLength="컨텐츠용량" /> 
+<requestFiltering> 
+- 

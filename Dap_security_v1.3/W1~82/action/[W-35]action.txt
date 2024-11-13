@@ -1,0 +1,3 @@
+[W-35] Remote Registry Service를 중지해야합니다. 
+시작-실행-SERVICES.MSC 입력-Remote Registry-속성 
+시작 유형을 사용 안 함, 서비스 상태를 중지로 바꿔주십시오. 

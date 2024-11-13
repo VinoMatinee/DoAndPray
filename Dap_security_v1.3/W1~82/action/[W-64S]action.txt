@@ -1,0 +1,13 @@
+ 
+제어판 - 관리도구 - IIS[인터넷 정보 서비스] 관리자 - 해당 웹 사이트 - [URL 재작성]  
+작업 탭 - [서버 값 관리 - 서버 변수 보기...] 
+작업 탭 - [추가...]- 서버 변수 추가- 서버 변수 이름: RESPONSE_SERVER  
+[URL 재작성] - 작업 탭 - [규칙 추가...] - 아웃바운드 규칙 - 빈 규칙  
+이름, 검색 범위, 변수 이름, 패턴 설정 - 적용- 이름(N): Remove Server - 검색 범위: 서버 변수- 변수 이름: RESPONSE_SERVER- 패턴 T: .*  
+ 
+ 
+시작 - 실행 - cmd - adsutil.vbs 파일이 있는 디렉터리로 이동- 명령어: cd C:\inetpub\AdminScripts- adsutil.vbs를 사용하기 위해 서버 관리자에서 역할 추가 필요 
+[웹 서버IIS-관리 도구- IIS 6 관리 호환성- IIS 6 스크립팅 도구] 설치 필요 
+IIS에서 서비스 중인 SMTP 서비스 목록 확인- 명령어: cscript adsutil.vbs enum /p smtpsvc 
+SMTP 서비스에 connectresponse 속성 값에서 배너 문구 수정- 명령어: cscript adsutil.vbs set smtpsvc/1/connectresponse “Banner Text 
+SMTP 서비스 재시작- 명령어: net stop smtpsvc 중지- 명령어: net start smtpsvc 시작 

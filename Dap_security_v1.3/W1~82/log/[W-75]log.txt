@@ -1,0 +1,25 @@
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\system
+    DisableAutomaticRestartSignOn    REG_DWORD    0x1
+    EnableVirtualization    REG_DWORD    0x1
+    EnableInstallerDetection    REG_DWORD    0x1
+    DelayedDesktopSwitchTimeout    REG_DWORD    0x0
+    PromptOnSecureDesktop    REG_DWORD    0x1
+    EnableLUA    REG_DWORD    0x1
+    EnableSecureUIAPaths    REG_DWORD    0x1
+    ConsentPromptBehaviorAdmin    REG_DWORD    0x5
+    ValidateAdminCodeSignatures    REG_DWORD    0x0
+    EnableUIADesktopToggle    REG_DWORD    0x0
+    EnableCursorSuppression    REG_DWORD    0x1
+    ConsentPromptBehaviorUser    REG_DWORD    0x3
+    disablecad    REG_DWORD    0x0
+    dontdisplaylastusername    REG_DWORD    0x0
+    legalnoticecaption    REG_SZ    
+    legalnoticetext    REG_SZ    
+    scforceoption    REG_DWORD    0x0
+    shutdownwithoutlogon    REG_DWORD    0x0
+    undockwithoutlogon    REG_DWORD    0x1
+    FilterAdministratorToken    REG_DWORD    0x0
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\system\Audit
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\policies\system\UIPI

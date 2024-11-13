@@ -1,0 +1,9 @@
+AuditSystemEvents = 0
+AuditLogonEvents = 0
+AuditObjectAccess = 0
+AuditPrivilegeUse = 0
+AuditPolicyChange = 0
+AuditAccountManage = 0
+AuditProcessTracking = 0
+AuditDSAccess = 0
+AuditAccountLogon = 0

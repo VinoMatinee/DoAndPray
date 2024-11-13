@@ -1,0 +1,10 @@
+FTP 서비스가 불필요할 경우 FTP서비스 사용 중지 
+시작 - 실행 - SERVICES.MSC - FTP Publishing Service - 속성 - [일반] 탭에서 "시작 유형" 사용 안 함 으로 설정한 후, FTP 서비스 중지 
+FTP 서비스가 불필요할 경우 FTP서비스 사용 중지 
+시작 - 실행 - SERVICES.MSC - FTP Publishing Service - 속성 - [일반] 탭에서 "시작 유형" 사용 안 함 으로 설정한 후, FTP 서비스 중지 
+FTP 서비스가 불필요할 경우 FTP서비스 사용 중지 
+시작 - 실행 - SERVICES.MSC - FTP Publishing Service - 속성 - [일반] 탭에서 "시작 유형" 사용 안 함 으로 설정한 후, FTP 서비스 중지 
+FTP 서비스가 불필요할 경우 FTP서비스 사용 중지 
+시작 - 실행 - SERVICES.MSC - FTP Publishing Service - 속성 - [일반] 탭에서 "시작 유형" 사용 안 함 으로 설정한 후, FTP 서비스 중지 
+FTP 서비스가 불필요할 경우 FTP서비스 사용 중지 
+시작 - 실행 - SERVICES.MSC - FTP Publishing Service - 속성 - [일반] 탭에서 "시작 유형" 사용 안 함 으로 설정한 후, FTP 서비스 중지 

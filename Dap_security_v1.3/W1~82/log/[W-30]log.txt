@@ -1,0 +1,40 @@
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W3SVC\Parameters
+    MajorVersion    REG_DWORD    0x8
+    MinorVersion    REG_DWORD    0x0
+    AccessDeniedMessage    REG_SZ    Error: Access is Denied.
+    InstallPath    REG_EXPAND_SZ    %windir%\system32\inetsrv
+    ServiceDll    REG_EXPAND_SZ    %windir%\system32\inetsrv\iisw3adm.dll
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W3SVC\Parameters
+    MajorVersion    REG_DWORD    0x8
+    MinorVersion    REG_DWORD    0x0
+    AccessDeniedMessage    REG_SZ    Error: Access is Denied.
+    InstallPath    REG_EXPAND_SZ    %windir%\system32\inetsrv
+    ServiceDll    REG_EXPAND_SZ    %windir%\system32\inetsrv\iisw3adm.dll
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W3SVC\Parameters
+    MajorVersion    REG_DWORD    0x8
+    MinorVersion    REG_DWORD    0x0
+    AccessDeniedMessage    REG_SZ    Error: Access is Denied.
+    InstallPath    REG_EXPAND_SZ    %windir%\system32\inetsrv
+    ServiceDll    REG_EXPAND_SZ    %windir%\system32\inetsrv\iisw3adm.dll
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W3SVC\Parameters
+    MajorVersion    REG_DWORD    0x8
+    MinorVersion    REG_DWORD    0x0
+    AccessDeniedMessage    REG_SZ    Error: Access is Denied.
+    InstallPath    REG_EXPAND_SZ    %windir%\system32\inetsrv
+    ServiceDll    REG_EXPAND_SZ    %windir%\system32\inetsrv\iisw3adm.dll
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W3SVC\Parameters
+    MajorVersion    REG_DWORD    0x8
+    MinorVersion    REG_DWORD    0x0
+    AccessDeniedMessage    REG_SZ    Error: Access is Denied.
+    InstallPath    REG_EXPAND_SZ    %windir%\system32\inetsrv
+    ServiceDll    REG_EXPAND_SZ    %windir%\system32\inetsrv\iisw3adm.dll
+

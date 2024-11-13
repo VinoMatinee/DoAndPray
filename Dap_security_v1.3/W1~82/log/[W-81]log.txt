@@ -1,0 +1,90 @@
+"시작프로그램 목록" 
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: A846-110D
+
+ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup 디렉터리
+
+2013-08-23  오전 12:39    <DIR>          .
+2013-08-23  오전 12:39    <DIR>          ..
+               0개 파일                   0 바이트
+               2개 디렉터리  53,891,551,232 바이트 남음
+ 
+"레지스트리 Run 목록" 
+"Windows x86 시작프로그램 목록" 
+
+
+ 
+"Windows x64 시작프로그램 목록" 
+
+"시작프로그램 목록" 
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: A846-110D
+
+ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup 디렉터리
+
+2013-08-23  오전 12:39    <DIR>          .
+2013-08-23  오전 12:39    <DIR>          ..
+               0개 파일                   0 바이트
+               2개 디렉터리  53,886,263,296 바이트 남음
+ 
+"레지스트리 Run 목록" 
+"Windows x86 시작프로그램 목록" 
+
+
+ 
+"Windows x64 시작프로그램 목록" 
+
+"시작프로그램 목록" 
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: A846-110D
+
+ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup 디렉터리
+
+2013-08-23  오전 12:39    <DIR>          .
+2013-08-23  오전 12:39    <DIR>          ..
+               0개 파일                   0 바이트
+               2개 디렉터리  53,883,838,464 바이트 남음
+ 
+"레지스트리 Run 목록" 
+"Windows x86 시작프로그램 목록" 
+
+
+ 
+"Windows x64 시작프로그램 목록" 
+
+"시작프로그램 목록" 
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: A846-110D
+
+ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup 디렉터리
+
+2013-08-23  오전 12:39    <DIR>          .
+2013-08-23  오전 12:39    <DIR>          ..
+               0개 파일                   0 바이트
+               2개 디렉터리  53,810,388,992 바이트 남음
+ 
+"레지스트리 Run 목록" 
+"Windows x86 시작프로그램 목록" 
+
+
+ 
+"Windows x64 시작프로그램 목록" 
+
+"시작프로그램 목록" 
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: A846-110D
+
+ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup 디렉터리
+
+2013-08-23  오전 12:39    <DIR>          .
+2013-08-23  오전 12:39    <DIR>          ..
+               0개 파일                   0 바이트
+               2개 디렉터리  53,784,428,544 바이트 남음
+ 
+"레지스트리 Run 목록" 
+"Windows x86 시작프로그램 목록" 
+
+
+ 
+"Windows x64 시작프로그램 목록" 
+

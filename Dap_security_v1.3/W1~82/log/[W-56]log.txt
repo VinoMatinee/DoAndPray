@@ -1,0 +1,1 @@
+MACHINE\System\CurrentControlSet\Control\Lsa\LimitBlankPasswordUse=4,1

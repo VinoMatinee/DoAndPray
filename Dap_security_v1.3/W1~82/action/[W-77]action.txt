@@ -1,0 +1,10 @@
+[W-77] 시작 - 실행 - SECPOL.MSC - 로컬 정책 - 보안 옵션 
+[W-77] "네트워크 보안 : LAN Manager 인증 수준" 정책에 "NTLMv2 응답만 보냄" 설정 
+[W-77] 시작 - 실행 - SECPOL.MSC - 로컬 정책 - 보안 옵션 
+[W-77] "네트워크 보안 : LAN Manager 인증 수준" 정책에 "NTLMv2 응답만 보냄" 설정 
+[W-77] 시작 - 실행 - SECPOL.MSC - 로컬 정책 - 보안 옵션 
+[W-77] "네트워크 보안 : LAN Manager 인증 수준" 정책에 "NTLMv2 응답만 보냄" 설정 
+[W-77] 시작 - 실행 - SECPOL.MSC - 로컬 정책 - 보안 옵션 
+[W-77] "네트워크 보안 : LAN Manager 인증 수준" 정책에 "NTLMv2 응답만 보냄" 설정 
+[W-77] 시작 - 실행 - SECPOL.MSC - 로컬 정책 - 보안 옵션 
+[W-77] "네트워크 보안 : LAN Manager 인증 수준" 정책에 "NTLMv2 응답만 보냄" 설정 

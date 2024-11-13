@@ -1,0 +1,80 @@
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : SynAttackProtect / 레지스트리 값 종류 : REG_DWORD / 유효 범위 : 0, 1, 2 / 권장 설정 값 : 1 또는 2로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+레지스트리 이름 : EnableDeadGWDetect, 레지스트리 값 종류 : REG_DWORD, 유효 범위 : 0, 1 (False, True
+권한 설정 값 : 0으로 (False)로 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : KeepAliveTime , 레지스트리 값 종류 : REG_DWORD 
+유효 범위 : 1 : 0xFFFFFFFF, 
+권장 설정 값 : 300,000 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+유효 범위 : 0, 1 (False, True
+권장 설정 값 : 1 (True)으로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : SynAttackProtect / 레지스트리 값 종류 : REG_DWORD / 유효 범위 : 0, 1, 2 / 권장 설정 값 : 1 또는 2로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+레지스트리 이름 : EnableDeadGWDetect, 레지스트리 값 종류 : REG_DWORD, 유효 범위 : 0, 1 (False, True
+권한 설정 값 : 0으로 (False)로 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : KeepAliveTime , 레지스트리 값 종류 : REG_DWORD 
+유효 범위 : 1 : 0xFFFFFFFF, 
+권장 설정 값 : 300,000 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+유효 범위 : 0, 1 (False, True
+권장 설정 값 : 1 (True)으로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : SynAttackProtect / 레지스트리 값 종류 : REG_DWORD / 유효 범위 : 0, 1, 2 / 권장 설정 값 : 1 또는 2로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+레지스트리 이름 : EnableDeadGWDetect, 레지스트리 값 종류 : REG_DWORD, 유효 범위 : 0, 1 (False, True
+권한 설정 값 : 0으로 (False)로 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : KeepAliveTime , 레지스트리 값 종류 : REG_DWORD 
+유효 범위 : 1 : 0xFFFFFFFF, 
+권장 설정 값 : 300,000 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+유효 범위 : 0, 1 (False, True
+권장 설정 값 : 1 (True)으로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : SynAttackProtect / 레지스트리 값 종류 : REG_DWORD / 유효 범위 : 0, 1, 2 / 권장 설정 값 : 1 또는 2로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+레지스트리 이름 : EnableDeadGWDetect, 레지스트리 값 종류 : REG_DWORD, 유효 범위 : 0, 1 (False, True
+권한 설정 값 : 0으로 (False)로 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : KeepAliveTime , 레지스트리 값 종류 : REG_DWORD 
+유효 범위 : 1 : 0xFFFFFFFF, 
+권장 설정 값 : 300,000 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+유효 범위 : 0, 1 (False, True
+권장 설정 값 : 1 (True)으로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : SynAttackProtect / 레지스트리 값 종류 : REG_DWORD / 유효 범위 : 0, 1, 2 / 권장 설정 값 : 1 또는 2로 설정 
+만약 레지스트리가 없으면 추가해주세요 
+레지스트리 이름 : EnableDeadGWDetect, 레지스트리 값 종류 : REG_DWORD, 유효 범위 : 0, 1 (False, True
+권한 설정 값 : 0으로 (False)로 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+[W-72] 시작-실행-REGEDIT입력 
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters 검색 
+레지스트리 이름 : KeepAliveTime , 레지스트리 값 종류 : REG_DWORD 
+유효 범위 : 1 : 0xFFFFFFFF, 
+권장 설정 값 : 300,000 설정하세요. 
+만약 레지스트리가 없으면 추가해주세요 
+유효 범위 : 0, 1 (False, True
+권장 설정 값 : 1 (True)으로 설정 
+만약 레지스트리가 없으면 추가해주세요 

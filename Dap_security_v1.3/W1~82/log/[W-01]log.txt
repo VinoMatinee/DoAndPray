@@ -1,0 +1,8 @@
+
+\\DESKTOP-PC42OAE에 대한 사용자 계정
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+VinoMatinee              WDAGUtilityAccount       
+명령을 잘 실행했습니다.
+

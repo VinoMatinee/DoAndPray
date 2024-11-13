@@ -1,0 +1,13 @@
+C:\Windows\System32\LogFiles NT SERVICE\TrustedInstaller:(I)(F)
+                             NT SERVICE\TrustedInstaller:(I)(CI)(IO)(F)
+                             NT AUTHORITY\SYSTEM:(I)(F)
+                             NT AUTHORITY\SYSTEM:(I)(OI)(CI)(IO)(F)
+                             BUILTIN\Administrators:(I)(F)
+                             BUILTIN\Administrators:(I)(OI)(CI)(IO)(F)
+                             BUILTIN\Users:(I)(RX)
+                             BUILTIN\Users:(I)(OI)(CI)(IO)(GR,GE)
+                             CREATOR OWNER:(I)(OI)(CI)(IO)(F)
+                             APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES:(I)(RX)
+                             APPLICATION PACKAGE AUTHORITY\ALL APPLICATION PACKAGES:(I)(OI)(CI)(IO)(GR,GE)
+
+1 파일을 처리했으며 0 파일은 처리하지 못했습니다.

@@ -1,0 +1,1 @@
+[W-61] SNMP 서비스를 사용하지 않거나, Community String이 public, private이 아닌 경우 - [양호] 

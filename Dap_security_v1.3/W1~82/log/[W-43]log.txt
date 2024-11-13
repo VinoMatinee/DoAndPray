@@ -1,0 +1,482 @@
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon
+    Userinit    REG_SZ    C:\Windows\system32\userinit.exe,
+    LegalNoticeText    REG_SZ    
+    Shell    REG_SZ    explorer.exe
+    LegalNoticeCaption    REG_SZ    
+    DebugServerCommand    REG_SZ    no
+    ForceUnlockLogon    REG_DWORD    0x0
+    ReportBootOk    REG_SZ    1
+    VMApplet    REG_SZ    SystemPropertiesPerformance.exe /pagefile
+    AutoRestartShell    REG_DWORD    0x1
+    PowerdownAfterShutdown    REG_SZ    0
+    ShutdownWithoutLogon    REG_SZ    0
+    Background    REG_SZ    0 0 0
+    PreloadFontFile    REG_SZ    SC-Load.All
+    PasswordExpiryWarning    REG_DWORD    0x5
+    CachedLogonsCount    REG_SZ    10
+    WinStationsDisabled    REG_SZ    0
+    PreCreateKnownFolders    REG_SZ    {A520A1A4-1780-4FF6-BD18-167343C5AF16}
+    DisableCAD    REG_DWORD    0x1
+    scremoveoption    REG_SZ    0
+    ShutdownFlags    REG_DWORD    0x80000027
+    AutoLogonSID    REG_SZ    S-1-5-21-697136907-2565148810-1706516849-1001
+    LastUsedUsername    REG_SZ    lakop
+    DefaultDomainName    REG_SZ    
+    DefaultUserName    REG_SZ    lakop
+    AutoAdminLogon    REG_SZ    1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\AlternateShells
+    DefaultShell    REG_SZ    explorer.exe
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\AlternateShells\AvailableShells
+    60000    REG_SZ    explorer.exe
+    30000    REG_SZ    cmd.exe /c "cd /d "%USERPROFILE%" & start cmd.exe /k runonce.exe /AlternateShellStartup"
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0ACDD40C-75AC-47ab-BAA0-BF6DE7E7FE63}
+    (기본값)    REG_SZ    Wireless Group Policy
+    DllName    REG_EXPAND_SZ    wlgpclnt.dll
+    GenerateGroupPolicy    REG_SZ    GenerateWLANPolicy
+    ProcessGroupPolicyEx    REG_SZ    ProcessWLANPolicyEx
+    NoGPOListChanges    REG_DWORD    0x1
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @wlgpclnt.dll,-100
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{0E28E245-9368-4853-AD84-6DA3BA35BB75}
+    (기본값)    REG_SZ    Group Policy Environment
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyEnviron
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyEnviron
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExEnviron
+    EventSources    REG_SZ    (Group Policy Environment,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-1
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{16be69fa-4209-4250-88cb-716cf41954e0}
+    (기본값)    REG_SZ    Central Access Policy Configuration
+    DllName    REG_EXPAND_SZ    auditcse.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyCap
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExCap
+    ForceRefreshFG    REG_DWORD    0x0
+    MaxNoGPOListChangesInterval    REG_DWORD    0x78
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @auditcse.dll,-4000
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{17D89FEC-5C44-4972-B12D-241CAEF74509}
+    (기본값)    REG_SZ    Group Policy Local Users and Groups
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyLocUsAndGroups
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyLocUsAndGroups
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExLocUsAndGroups
+    EventSources    REG_SZ    (Group Policy Local Users and Groups,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-2
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{1A6364EB-776B-4120-ADE1-B63A406A76B5}
+    (기본값)    REG_SZ    Group Policy Device Settings
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyDevices
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyDevices
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExDevices
+    EventSources    REG_SZ    (Group Policy Device Settings,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-3
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{25537BA6-77A8-11D2-9B6C-0000F8080861}
+    (기본값)    REG_SZ    Folder Redirection
+    DllName    REG_EXPAND_SZ    fdeploy.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicy
+    NoSlowLink    REG_DWORD    0x1
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyEx
+    NoGPOListChanges    REG_DWORD    0x0
+    EventSources    REG_MULTI_SZ    (Folder Redirection,Application)
+    NoMachinePolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @fdeploy.dll,-261
+    PerUserLocalSettings    REG_DWORD    0x1
+    NoBackgroundPolicy    REG_DWORD    0x0
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{35378EAC-683F-11D2-A89A-00C04FBBCFA2}
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3610eda5-77ef-11d2-8dc5-00c04fa31a66}
+    (기본값)    REG_SZ    Microsoft Disk Quota
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicy
+    DllName    REG_EXPAND_SZ    %SystemRoot%\System32\dskquota.dll
+    RequiresSuccessfulRegistry    REG_DWORD    0x1
+    NoSlowLink    REG_DWORD    0x1
+    NoGPOListChanges    REG_DWORD    0x1
+    NoUserPolicy    REG_DWORD    0x1
+    NoMachinePolicy    REG_DWORD    0x0
+    DisplayName    REG_EXPAND_SZ    @%SystemRoot%\System32\dskquota.dll,-100
+    PerUserLocalSettings    REG_DWORD    0x0
+    EnableAsynchronousProcessing    REG_DWORD    0x0
+    NoBackgroundPolicy    REG_DWORD    0x0
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{3A0DBA37-F8B2-4356-83DE-3E90BD5C261F}
+    (기본값)    REG_SZ    Group Policy Network Options
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyNetworkOptions
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyNetworkOptions
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExNetworkOptions
+    EventSources    REG_SZ    (Group Policy Network Options,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-4
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{426031c0-0b47-4852-b0ca-ac3d37bfcb39}
+    (기본값)    REG_SZ    QoS Packet Scheduler
+    ProcessGroupPolicy    REG_SZ    ProcessPSCHEDPolicy
+    DllName    REG_EXPAND_SZ    gptext.dll
+    NoGPOListChanges    REG_DWORD    0x1
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gptext.dll,-201
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{42B5FAAE-6536-11d2-AE5A-0000F87571E3}
+    (기본값)    REG_SZ    Scripts
+    ProcessGroupPolicy    REG_SZ    ProcessScriptsGroupPolicy
+    DllName    REG_SZ    C:\Windows\System32\gpscript.dll
+    GenerateGroupPolicy    REG_SZ    GenerateScriptsGroupPolicy
+    NoSlowLink    REG_DWORD    0x1
+    ProcessGroupPolicyEx    REG_SZ    ProcessScriptsGroupPolicyEx
+    NoGPOListChanges    REG_DWORD    0x1
+    NotifyLinkTransition    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gpscript.dll,-1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4bcd6cde-777b-48b6-9804-43568e23545d}
+    (기본값)    REG_SZ    Remote Desktop USB Redirection
+    DllName    REG_EXPAND_SZ    %SystemRoot%\System32\TsUsbRedirectionGroupPolicyExtension.dll
+    RequiresSuccessfulRegistry    REG_DWORD    0x1
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyEx
+    NoGPOListChanges    REG_DWORD    0x1
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @%SystemRoot%\System32\TsUsbRedirectionGroupPolicyExtension.dll,-100
+    NoBackgroundPolicy    REG_DWORD    0x0
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4CFB60C1-FAA6-47f1-89AA-0B18730C9FD3}
+    (기본값)    REG_SZ    Internet Explorer Zonemapping
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyForZoneMap
+    DllName    REG_SZ    C:\Windows\System32\iedkcs32.dll
+    RequiresSuccessfulRegistry    REG_DWORD    0x1
+    NoGPOListChanges    REG_DWORD    0x1
+    DisplayName    REG_SZ    @C:\Windows\System32\iedkcs32.dll,-3051
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{4D2F9B6F-1E52-4711-A382-6A8B1A003DE6}
+    DllName    REG_SZ    C:\Windows\System32\tsworkspace.dll
+    ProcessGroupPolicyEx    REG_SZ    RADCProcessGroupPolicyEx
+    NoMachinePolicy    REG_DWORD    0x1
+    PerUserLocalSettings    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{5794DAFD-BE60-433f-88A2-1A31939AC01F}
+    (기본값)    REG_SZ    Group Policy Drive Maps
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyDrives
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyDrives
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExDrives
+    EventSources    REG_SZ    (Group Policy Drive Maps,Application)
+    NoMachinePolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-5
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{6232C319-91AC-4931-9385-E70C2B099F0E}
+    (기본값)    REG_SZ    Group Policy Folders
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyFolders
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyFolders
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExFolders
+    EventSources    REG_SZ    (Group Policy Folders,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-6
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{6A4C88C6-C502-4f74-8F60-2CB23EDC24E2}
+    (기본값)    REG_SZ    Group Policy Network Shares
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyNetShares
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyNetShares
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExNetShares
+    EventSources    REG_SZ    (Group Policy Network Shares,Application)
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-7
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7150F9BF-48AD-4da4-A49C-29EF4A8369BA}
+    (기본값)    REG_SZ    Group Policy Files
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyFiles
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyFiles
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExFiles
+    EventSources    REG_SZ    (Group Policy Files,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-8
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{728EE579-943C-4519-9EF7-AB56765798ED}
+    (기본값)    REG_SZ    Group Policy Data Sources
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyDataSources
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyDataSources
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExDataSources
+    EventSources    REG_SZ    (Group Policy Data Sources,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-9
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{74EE6C03-5363-4554-B161-627540339CAB}
+    (기본값)    REG_SZ    Group Policy Ini Files
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyIniFile
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyIniFile
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExIniFile
+    EventSources    REG_SZ    (Group Policy Ini Files,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-10
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{7B849a69-220F-451E-B3FE-2CB811AF94AE}
+    (기본값)    REG_SZ    Internet Explorer User Accelerators
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyForActivities
+    DllName    REG_SZ    C:\Windows\System32\iedkcs32.dll
+    RequiresSuccessfulRegistry    REG_DWORD    0x1
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyForActivitiesEx
+    NoGPOListChanges    REG_DWORD    0x1
+    DisplayName    REG_SZ    @C:\Windows\System32\iedkcs32.dll,-3051
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{827D319E-6EAC-11D2-A4EA-00C04F79F83A}
+    (기본값)    REG_SZ    Security
+    ExtensionRsopPlanningDebugLevel    REG_DWORD    0x1
+    ProcessGroupPolicy    REG_SZ    SceProcessSecurityPolicyGPO
+    DllName    REG_EXPAND_SZ    scecli.dll
+    GenerateGroupPolicy    REG_SZ    SceGenerateGroupPolicy
+    ProcessGroupPolicyEx    REG_SZ    SceProcessSecurityPolicyGPOEx
+    NoGPOListChanges    REG_DWORD    0x1
+    MaxNoGPOListChangesInterval    REG_DWORD    0x1
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @(runtime.system32)\scecli.dll,-7650
+    ExtensionDebugLevel    REG_DWORD    0x0
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{8A28E2C5-8D06-49A4-A08C-632DAA493E17}
+    (기본값)    REG_SZ    Deployed Printer Connections
+    ProcessGroupPolicy    REG_SZ    PrinterProcessGroupPolicy
+    DllName    REG_EXPAND_SZ    %systemroot%\system32\gpprnext.dll
+    GenerateGroupPolicy    REG_SZ    PrinterGenerateGroupPolicy
+    RequiresSuccessfulRegistry    REG_DWORD    0x0
+    ExtensionEventSource    REG_SZ    
+    NoSlowLink    REG_DWORD    0x1
+    ProcessGroupPolicyEx    REG_SZ    PrinterProcessGroupPolicyEx
+    MaxNoGPOListChangesInterval    REG_DWORD    0x0
+    NoGPOListChanges    REG_DWORD    0x0
+    NotifyLinkTransition    REG_DWORD    0x0
+    NoUserPolicy    REG_DWORD    0x0
+    NoMachinePolicy    REG_DWORD    0x0
+    DisplayName    REG_EXPAND_SZ    @%systemroot%\system32\gpprnext.dll,-1
+    PerUserLocalSettings    REG_DWORD    0x0
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+    NoBackgroundPolicy    REG_DWORD    0x0
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{91FBB303-0CD5-4055-BF42-E512A681B325}
+    (기본값)    REG_SZ    Group Policy Services
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyServices
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyServices
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExServices
+    EventSources    REG_SZ    (Group Policy Services,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-11
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{A3F3E39B-5D83-4940-B954-28315B82F0A8}
+    (기본값)    REG_SZ    Group Policy Folder Options
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyFolderOptions
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyFolderOptions
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExFolderOptions
+    EventSources    REG_SZ    (Group Policy Folder Options,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-12
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{AADCED64-746C-4633-A97C-D61349046527}
+    (기본값)    REG_SZ    Group Policy Scheduled Tasks
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicySchedTasks
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicySchedTasks
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExSchedTasks
+    EventSources    REG_SZ    (Group Policy Scheduled Tasks,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-13
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B087BE9D-ED37-454f-AF9C-04291E351182}
+    (기본값)    REG_SZ    Group Policy Registry
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyRegistry
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyRegistry
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExRegistry
+    EventSources    REG_SZ    (Group Policy Registry,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-14
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{B587E2B1-4D59-4e7e-AED9-22B9DF11D053}
+    (기본값)    REG_SZ    802.3 Group Policy
+    DllName    REG_EXPAND_SZ    dot3gpclnt.dll
+    GenerateGroupPolicy    REG_SZ    GenerateLANPolicy
+    ProcessGroupPolicyEx    REG_SZ    ProcessLANPolicyEx
+    NoGPOListChanges    REG_DWORD    0x1
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @dot3gpclnt.dll,-100
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{BC75B1ED-5833-4858-9BB8-CBF0B166DF9D}
+    (기본값)    REG_SZ    Group Policy Printers
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyPrinters
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyPrinters
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExPrinters
+    EventSources    REG_SZ    (Group Policy Printers,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-16
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{C418DD9D-0D14-4efb-8FBF-CFE535C8FAC7}
+    (기본값)    REG_SZ    Group Policy Shortcuts
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyShortcuts
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyShortcuts
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExShortcuts
+    EventSources    REG_SZ    (Group Policy Shortcuts,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-17
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{c6dc5466-785a-11d2-84d0-00c04fb169f7}
+    (기본값)    REG_SZ    Software Installation
+    RequiresSucessfulRegistry    REG_DWORD    0x0
+    DllName    REG_EXPAND_SZ    appmgmts.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicy
+    NoSlowLink    REG_DWORD    0x1
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyObjectsEx
+    EventSources    REG_MULTI_SZ    (Application Management,Application)\0(MsiInstaller,Application)
+    NoUserPolicy    REG_DWORD    0x0
+    DisplayName    REG_EXPAND_SZ    @appmgmts.dll,-3252
+    PerUserLocalSettings    REG_DWORD    0x1
+    NoBackgroundPolicy    REG_DWORD    0x0
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{cdeafc3d-948d-49dd-ab12-e578ba4af7aa}
+    (기본값)    REG_SZ    TCPIP
+    ProcessGroupPolicy    REG_SZ    ProcessTCPIPPolicy
+    DllName    REG_EXPAND_SZ    gptext.dll
+    RequiresSuccessfulRegistry    REG_DWORD    0x1
+    NoGPOListChanges    REG_DWORD    0x1
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gptext.dll,-204
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{CF7639F3-ABA2-41DB-97F2-81E2C5DBFC5D}
+    (기본값)    REG_SZ    Internet Explorer Machine Accelerators
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyForActivities
+    DllName    REG_SZ    C:\Windows\System32\iedkcs32.dll
+    RequiresSuccessfulRegistry    REG_DWORD    0x1
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyForActivitiesEx
+    NoGPOListChanges    REG_DWORD    0x1
+    DisplayName    REG_SZ    @C:\Windows\System32\iedkcs32.dll,-3051
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{e437bc1c-aa7d-11d2-a382-00c04f991e27}
+    (기본값)    REG_SZ    IP Security
+    DllName    REG_EXPAND_SZ    %SystemRoot%\System32\polstore.dll
+    GenerateGroupPolicy    REG_SZ    GenerateIPSECPolicy
+    ProcessGroupPolicyEx    REG_SZ    ProcessIPSECPolicyEx
+    NoGPOListChanges    REG_DWORD    0x0
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @C:\Windows\System32\polstore.dll,-5012
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{E47248BA-94CC-49c4-BBB5-9EB7F05183D0}
+    (기본값)    REG_SZ    Group Policy Internet Settings
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyInternet
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyInternet
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExInternet
+    EventSources    REG_SZ    (Group Policy Internet Settings,Application)
+    NoMachinePolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-18
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{E4F48E54-F38D-4884-BFB9-D4D2E5729C18}
+    (기본값)    REG_SZ    Group Policy Start Menu Settings
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyStartMenu
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyStartMenu
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExStartMenu
+    EventSources    REG_SZ    (Group Policy Start Menu Settings,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-19
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{E5094040-C46C-4115-B030-04FB2E545B00}
+    (기본값)    REG_SZ    Group Policy Regional Options
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyRegionOptions
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyRegionOptions
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExRegionOptions
+    EventSources    REG_SZ    (Group Policy Regional Options,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-20
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{E62688F0-25FD-4c90-BFF5-F508B9D2E31F}
+    (기본값)    REG_SZ    Group Policy Power Options
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyPowerOptions
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyPowerOptions
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExPowerOptions
+    EventSources    REG_SZ    (Group Policy Power Options,Application)
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-21
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{f3ccc681-b74c-4060-9f26-cd84525dca2a}
+    (기본값)    REG_SZ    Audit Policy Configuration
+    DllName    REG_EXPAND_SZ    auditcse.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicy
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyEx
+    ForceRefreshFG    REG_DWORD    0x0
+    MaxNoGPOListChangesInterval    REG_DWORD    0x3c0
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @auditcse.dll,-3000
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{F9C77450-3A41-477E-9310-9ACD617BD9E3}
+    (기본값)    REG_SZ    Group Policy Applications
+    ProcessGroupPolicy    REG_SZ    ProcessGroupPolicyApplications
+    DllName    REG_SZ    C:\Windows\System32\gpprefcl.dll
+    GenerateGroupPolicy    REG_SZ    GenerateGroupPolicyApplications
+    ProcessGroupPolicyEx    REG_SZ    ProcessGroupPolicyExApplications
+    EventSources    REG_SZ    (Group Policy Applications,Application)
+    NoMachinePolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gpprefcl.dll,-15
+    PerUserLocalSettings    REG_DWORD    0x1
+    EnableAsynchronousProcessing    REG_DWORD    0x1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{FB2CA36D-0B40-4307-821B-A13B252DE56C}
+    (기본값)    REG_SZ    Enterprise QoS
+    ProcessGroupPolicy    REG_SZ    ProcessEQoSPolicy
+    DllName    REG_EXPAND_SZ    gptext.dll
+    RequiresSuccessfulRegistry    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gptext.dll,-203
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\GPExtensions\{fbf687e6-f063-4d9f-9f4f-fd9a26acdd5f}
+    (기본값)    REG_SZ    CP
+    ProcessGroupPolicy    REG_SZ    ProcessConnectivityPlatformPolicy
+    DllName    REG_EXPAND_SZ    gptext.dll
+    RequiresSuccessfulRegistry    REG_DWORD    0x1
+    NoGPOListChanges    REG_DWORD    0x1
+    NoUserPolicy    REG_DWORD    0x1
+    DisplayName    REG_EXPAND_SZ    @gptext.dll,-205
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\AutoLogonChecked
+

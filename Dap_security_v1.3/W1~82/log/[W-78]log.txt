@@ -1,0 +1,55 @@
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters
+    RequireSignOrSeal    REG_DWORD    0x1
+    RequireStrongKey    REG_DWORD    0x1
+    MaximumPasswordAge    REG_DWORD    0x1e
+    SignSecureChannel    REG_DWORD    0x1
+    SealSecureChannel    REG_DWORD    0x1
+    Update    REG_SZ    no
+    ServiceDll    REG_EXPAND_SZ    %SystemRoot%\system32\netlogon.dll
+    DisablePasswordChange    REG_DWORD    0x0
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters
+    RequireSignOrSeal    REG_DWORD    0x1
+    RequireStrongKey    REG_DWORD    0x1
+    MaximumPasswordAge    REG_DWORD    0x1e
+    SignSecureChannel    REG_DWORD    0x1
+    SealSecureChannel    REG_DWORD    0x1
+    Update    REG_SZ    no
+    ServiceDll    REG_EXPAND_SZ    %SystemRoot%\system32\netlogon.dll
+    DisablePasswordChange    REG_DWORD    0x0
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters
+    RequireSignOrSeal    REG_DWORD    0x1
+    RequireStrongKey    REG_DWORD    0x1
+    MaximumPasswordAge    REG_DWORD    0x1e
+    SignSecureChannel    REG_DWORD    0x1
+    SealSecureChannel    REG_DWORD    0x1
+    Update    REG_SZ    no
+    ServiceDll    REG_EXPAND_SZ    %SystemRoot%\system32\netlogon.dll
+    DisablePasswordChange    REG_DWORD    0x0
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters
+    RequireSignOrSeal    REG_DWORD    0x1
+    RequireStrongKey    REG_DWORD    0x1
+    MaximumPasswordAge    REG_DWORD    0x1e
+    SignSecureChannel    REG_DWORD    0x1
+    SealSecureChannel    REG_DWORD    0x1
+    Update    REG_SZ    no
+    ServiceDll    REG_EXPAND_SZ    %SystemRoot%\system32\netlogon.dll
+    DisablePasswordChange    REG_DWORD    0x0
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters
+    RequireSignOrSeal    REG_DWORD    0x1
+    RequireStrongKey    REG_DWORD    0x1
+    MaximumPasswordAge    REG_DWORD    0x1e
+    SignSecureChannel    REG_DWORD    0x1
+    SealSecureChannel    REG_DWORD    0x1
+    Update    REG_SZ    no
+    ServiceDll    REG_EXPAND_SZ    %SystemRoot%\system32\netlogon.dll
+    DisablePasswordChange    REG_DWORD    0x0
+

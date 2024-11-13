@@ -1,0 +1,5 @@
+c:\users\Administrator NT AUTHORITY\SYSTEM:(OI)(CI)(F)
+                       BUILTIN\Administrators:(OI)(CI)(F)
+                       WIN-TE7I9U6FG54\Administrator:(OI)(CI)(F)
+
+1 파일을 처리했으며 0 파일은 처리하지 못했습니다.

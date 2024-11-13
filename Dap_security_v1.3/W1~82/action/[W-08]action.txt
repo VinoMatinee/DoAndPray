@@ -1,0 +1,4 @@
+[W-08]log.txt 파일을 확인하고 하드디스크 기본 공유를 제거하시오 
+시작-실행-FSMGMT.MSC-공유-기본공유선택-마우스 우클릭-공유 중지 
+아래 레지스트리 값을 0으로 수정 (키값이 없을 경우 새로 생성
+“HKLM\SYSTEM\CurrentControlSet\Services\lanmanserver\parameters\AutoShareServer” 

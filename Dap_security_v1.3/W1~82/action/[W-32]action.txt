@@ -1,0 +1,288 @@
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 
+수동 HOT FIX 적용 방법 
+"https://technet.microsoft.com/ko-kr/security/"에서 패치 리스트를 조회하여, 서버에 필요한 패치를 선별하여 수동으로 설치 
+ 
+자동 HOT FIX 적용 
+Windows 자동 업데이트 기능을 이용한 설치 
+제어판-windows update 
+ 
+PMS설치 
+Agent를 설치하여 자동으로 업데이트 되도록 설정함 
+※ 보안패치 및 Hot Fix 경우 적용 후 시스템 재시작을 요구하는 경우가 대부분이므로 관리자는 서비스에 지장이 없는 시간대에 적용할 것. 
+※ 일부 Hot Fix는 수행되고있는 OS 프로그램이나 개발용 Application 프로그램에 영향을 줄 수 있으므로 패치 적용 전 Application 프로그램을 구분하고, 필요하다면 OS 벤더 또는 Application 엔지니어에게 확인 작업을 거친 후 패치를 수행할 것. 
+또한, 이 점검부분에서 양호하다고 판단이 된다면, 패치 관리 항목에 수동으로 12점을 부여해 주십시오. 

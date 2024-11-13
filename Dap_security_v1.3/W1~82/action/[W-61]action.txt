@@ -1,0 +1,5 @@
+[W-61] 시작-실행-SERVICES.MSC-SNMP Service 속성-보안-[인증 트랩 보내기] 앞 체크박스 해제 또는 [받아들인 커뮤니티 이름]에서 public, private 제거 
+[W-61] 시작-실행-SERVICES.MSC-SNMP Service 속성-보안-[인증 트랩 보내기] 앞 체크박스 해제 또는 [받아들인 커뮤니티 이름]에서 public, private 제거 
+[W-61] 시작-실행-SERVICES.MSC-SNMP Service 속성-보안-[인증 트랩 보내기] 앞 체크박스 해제 또는 [받아들인 커뮤니티 이름]에서 public, private 제거 
+[W-61] 시작-실행-SERVICES.MSC-SNMP Service 속성-보안-[인증 트랩 보내기] 앞 체크박스 해제 또는 [받아들인 커뮤니티 이름]에서 public, private 제거 
+[W-61] 시작-실행-SERVICES.MSC-SNMP Service 속성-보안-[인증 트랩 보내기] 앞 체크박스 해제 또는 [받아들인 커뮤니티 이름]에서 public, private 제거 

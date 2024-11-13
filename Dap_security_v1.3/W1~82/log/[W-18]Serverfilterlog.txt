@@ -1,0 +1,5 @@
+                    <add fileExtension=".asax" allowed="false" />
+                    <add fileExtension=".asax" allowed="false" />
+                    <add fileExtension=".asax" allowed="false" />
+                    <add fileExtension=".asax" allowed="false" />
+                    <add fileExtension=".asax" allowed="false" />

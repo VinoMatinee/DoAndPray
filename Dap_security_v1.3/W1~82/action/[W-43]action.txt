@@ -1,0 +1,3 @@
+시작 - 실행 - REGEDIT - HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon 검색 
+DWORD - AutoAdminLogon  값을 찾아 값을 0으로 입력 
+DefaultPassword 엔트리가 존재한다면 삭제  

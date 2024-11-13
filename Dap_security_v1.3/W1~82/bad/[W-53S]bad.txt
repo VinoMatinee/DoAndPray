@@ -1,0 +1,5 @@
+"로컬 로그온 허용 정책"에 Administrator, IUSR 외 다른 계정 및 그룹이 존재하면 안됩니다. 
+"로컬 로그온 허용 정책"에 Administrator, IUSR 외 다른 계정 및 그룹이 존재하면 안됩니다. 
+"로컬 로그온 허용 정책"에 Administrator, IUSR 외 다른 계정 및 그룹이 존재하면 안됩니다. 
+"로컬 로그온 허용 정책"에 Administrator, IUSR 외 다른 계정 및 그룹이 존재하면 안됩니다. 
+"로컬 로그온 허용 정책"에 Administrator, IUSR 외 다른 계정 및 그룹이 존재하면 안됩니다. 

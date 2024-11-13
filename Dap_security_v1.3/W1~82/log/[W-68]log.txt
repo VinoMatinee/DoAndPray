@@ -1,0 +1,298 @@
+
+폴더: \
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Optimize Start Menu Cache Files-S-1-5-21 N/A                    사용 안 함     
+Optimize Start Menu Cache Files-S-1-5-21 N/A                    사용 안 함     
+
+폴더: \Microsoft
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+정보:사용자의 액세스 수준에서 현재 사용할 수 있는 작업이 없습니다.
+
+폴더: \Microsoft\Windows
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+정보:사용자의 액세스 수준에서 현재 사용할 수 있는 작업이 없습니다.
+
+폴더: \Microsoft\Windows\.NET Framework
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+.NET Framework NGEN v4.0.30319           N/A                    준비           
+.NET Framework NGEN v4.0.30319 64        N/A                    준비           
+.NET Framework NGEN v4.0.30319 64 Critic N/A                    사용 안 함     
+.NET Framework NGEN v4.0.30319 Critical  N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\Active Directory Rights Management Services Client
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+AD RMS Rights Policy Template Management N/A                    사용 안 함     
+AD RMS Rights Policy Template Management N/A                    준비           
+
+폴더: \Microsoft\Windows\AppID
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+PolicyConverter                          N/A                    사용 안 함     
+SmartScreenSpecific                      N/A                    준비           
+VerifiedPublisherCertStoreCheck          N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\Application Experience
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+AitAgent                                 N/A                    준비           
+Microsoft Compatibility Appraiser        2023-06-14 오전 12:49: 준비           
+ProgramDataUpdater                       N/A                    준비           
+
+폴더: \Microsoft\Windows\ApplicationData
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+CleanupTemporaryState                    N/A                    준비           
+
+폴더: \Microsoft\Windows\AppxDeploymentClient
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Pre-staged app cleanup                   N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\Autochk
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Proxy                                    N/A                    준비           
+
+폴더: \Microsoft\Windows\CertificateServicesClient
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+SystemTask                               N/A                    준비           
+UserTask                                 N/A                    준비           
+UserTask-Roam                            N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\Chkdsk
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+ProactiveScan                            N/A                    준비           
+
+폴더: \Microsoft\Windows\Customer Experience Improvement Program
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Consolidator                             2023-06-13 오후 8:00:0 준비           
+KernelCeipTask                           N/A                    준비           
+UsbCeip                                  N/A                    준비           
+
+폴더: \Microsoft\Windows\Customer Experience Improvement Program\Server
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+ServerCeipAssistant                      2023-06-14 오전 2:43:2 준비           
+ServerRoleCollector-RunOnce              N/A                    준비           
+
+폴더: \Microsoft\Windows\Data Integrity Scan
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Data Integrity Scan                      2023-07-04 오후 12:53: 준비           
+Data Integrity Scan for Crash Recovery   N/A                    준비           
+
+폴더: \Microsoft\Windows\Defrag
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+ScheduledDefrag                          N/A                    준비           
+
+폴더: \Microsoft\Windows\Device Setup
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Metadata Refresh                         N/A                    준비           
+
+폴더: \Microsoft\Windows\IME
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+SQM data sender                          N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\MemoryDiagnostic
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+ProcessMemoryDiagnosticEvents            N/A                    사용 안 함     
+RunFullMemoryDiagnostic                  N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\MUI
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+LPRemove                                 N/A                    준비           
+
+폴더: \Microsoft\Windows\Multimedia
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+SystemSoundsService                      N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\NetCfg
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+BindingWorkItemQueueHandler              N/A                    준비           
+
+폴더: \Microsoft\Windows\NetTrace
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+GatherNetworkInfo                        N/A                    준비           
+
+폴더: \Microsoft\Windows\PI
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Secure-Boot-Update                       N/A                    준비           
+Sqm-Tasks                                N/A                    준비           
+
+폴더: \Microsoft\Windows\PLA
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Server Manager Performance Monitor       N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\Plug and Play
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Device Install Group Policy              N/A                    준비           
+Device Install Reboot Required           N/A                    준비           
+Plug and Play Cleanup                    N/A                    준비           
+Sysprep Generalize Drivers               N/A                    준비           
+
+폴더: \Microsoft\Windows\Power Efficiency Diagnostics
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+AnalyzeSystem                            N/A                    준비           
+
+폴더: \Microsoft\Windows\RAC
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+RacTask                                  N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\Ras
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+MobilityManager                          N/A                    준비           
+
+폴더: \Microsoft\Windows\Registry
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+RegIdleBackup                            N/A                    준비           
+
+폴더: \Microsoft\Windows\Server Manager
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+CleanupOldPerfLogs                       N/A                    준비           
+ServerManager                            N/A                    준비           
+
+폴더: \Microsoft\Windows\Servicing
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+StartComponentCleanup                    N/A                    준비           
+
+폴더: \Microsoft\Windows\Shell
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+CreateObjectTask                         N/A                    준비           
+
+폴더: \Microsoft\Windows\Software Inventory Logging
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Collection                               N/A                    사용 안 함     
+Configuration                            N/A                    준비           
+
+폴더: \Microsoft\Windows\SoftwareProtectionPlatform
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+SvcRestartTask                           2023-06-14 오후 3:10:3 준비           
+SvcRestartTaskLogon                      N/A                    준비           
+SvcRestartTaskNetwork                    N/A                    준비           
+
+폴더: \Microsoft\Windows\SpacePort
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+SpaceAgentTask                           N/A                    준비           
+
+폴더: \Microsoft\Windows\Storage Tiers Management
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Storage Tiers Management Initialization  N/A                    준비           
+Storage Tiers Optimization               N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\Task Manager
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Interactive                              N/A                    준비           
+
+폴더: \Microsoft\Windows\TaskScheduler
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Idle Maintenance                         N/A                    사용 안 함     
+Maintenance Configurator                 2023-06-14 오전 1:00:0 준비           
+Manual Maintenance                       N/A                    준비           
+Regular Maintenance                      2023-06-14 오전 4:56:5 준비           
+
+폴더: \Microsoft\Windows\TextServicesFramework
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+MsCtfMonitor                             N/A                    실행 중        
+
+폴더: \Microsoft\Windows\Time Synchronization
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+SynchronizeTime                          N/A                    준비           
+
+폴더: \Microsoft\Windows\Time Zone
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+SynchronizeTimeZone                      N/A                    준비           
+
+폴더: \Microsoft\Windows\TPM
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Tpm-Maintenance                          N/A                    준비           
+
+폴더: \Microsoft\Windows\UPnP
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+UPnPHostConfig                           N/A                    준비           
+
+폴더: \Microsoft\Windows\User Profile Service
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+HiveUploadTask                           N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\WDI
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+ResolutionHost                           N/A                    준비           
+
+폴더: \Microsoft\Windows\Windows Error Reporting
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+QueueReporting                           N/A                    준비           
+
+폴더: \Microsoft\Windows\Windows Filtering Platform
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+BfeOnServiceStartTypeChange              N/A                    준비           
+
+폴더: \Microsoft\Windows\WindowsColorSystem
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Calibration Loader                       N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\WindowsUpdate
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+AUFirmwareInstall                        N/A                    사용 안 함     
+AUScheduledInstall                       N/A                    사용 안 함     
+AUSessionConnect                         N/A                    사용 안 함     
+Scheduled Start                          N/A                    준비           
+Scheduled Start With Network             N/A                    준비           
+
+폴더: \Microsoft\Windows\Wininet
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+CacheTask                                N/A                    실행 중        
+
+폴더: \Microsoft\Windows\Workplace Join
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+Automatic-Workplace-Join                 N/A                    사용 안 함     
+
+폴더: \Microsoft\Windows\WS
+작업 이름                                다음 실행 시간         상태           
+======================================== ====================== ===============
+License Validation                       N/A                    사용 안 함     
+WSTask                                   N/A                    준비           

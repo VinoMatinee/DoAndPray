@@ -1,0 +1,121 @@
+다음과 같은 Windows 서비스가 시작되었습니다.
+
+   Application Information
+   AppX Deployment Service (AppXSVC)
+   AVCTP 서비스
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Client License Service (ClipSVC)
+   CNG Key Isolation
+   COM+ Event System
+   Connected User Experiences and Telemetry
+   Contact Data_5f0a98c
+   CoreMessaging
+   Credential Manager
+   Cryptographic Services
+   Data Sharing Service
+   DCOM Server Process Launcher
+   Delivery Optimization
+   Device Association Service
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Distributed Link Tracking Client
+   DNS Client
+   Encrypting File System (EFS)
+   Everything
+   Extensible Authentication Protocol
+   Function Discovery Provider Host
+   Function Discovery Resource Publication
+   Geolocation Service
+   Group Policy Client
+   HncUpdateService_2022
+   Human Interface Device Service
+   Intel(R) Content Protection HDCP Service
+   Intel(R) Content Protection HECI Service
+   Intel(R) Dynamic Application Loader Host Interface Service
+   Intel(R) HD Graphics Control Panel Service
+   Intel(R) Management and Security Application Local Management Service
+   IP Helper
+   Local Session Manager
+   Microsoft Defender Antivirus Network Inspection Service
+   Microsoft Defender Antivirus Service
+   Microsoft Office Click-to-Run Service
+   Microsoft Store 설치 서비스
+   Network Connection Broker
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   NVIDIA Display Container LS
+   NVIDIA LocalSystem Container
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   State Repository Service
+   Storage Service
+   SynTPEnhService
+   SysMain
+   System Event Notification Service
+   System Events Broker
+   System Guard 런타임 모니터 브로커
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Telephony
+   Themes
+   Time Broker
+   Touch Keyboard and Handwriting Panel Service
+   User Data Access_5f0a98c
+   User Data Storage_5f0a98c
+   User Manager
+   User Profile Service
+   VMware Authorization Service
+   VMware DHCP Service
+   VMware NAT Service
+   VMware USB Arbitration Service
+   WebClient
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Firewall
+   Windows Event Log
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Presentation Foundation Font Cache 3.0.0.0
+   Windows Push Notifications User Service_5f0a98c
+   Windows Search
+   Windows Time
+   Windows Update
+   Windows 라이선스 관리자 서비스
+   Windows 보안 서비스
+   Windows 푸시 알림 시스템 서비스
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+   기능 액세스 관리자 서비스
+   데이터 사용량
+   디스플레이 개선 서비스
+   무선 송수신 장치 관리 서비스
+   연결된 디바이스 플랫폼 사용자 서비스_5f0a98c
+   연결된 디바이스 플랫폼 서비스
+   오케스트레이터 서비스 업데이트
+   웹 계정 관리자
+   정책 서비스 표시
+   클립보드 사용자 서비스_5f0a98c
+   호스트 동기화_5f0a98c
+
+명령을 잘 실행했습니다.
+

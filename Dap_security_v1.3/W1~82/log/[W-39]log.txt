@@ -1,0 +1,1 @@
+    shutdownwithoutlogon    REG_DWORD    0x0

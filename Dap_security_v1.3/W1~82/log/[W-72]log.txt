@@ -1,0 +1,25 @@
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
+    ICSDomain    REG_SZ    mshome.net
+    SyncDomainWithMembership    REG_DWORD    0x1
+    NV Hostname    REG_SZ    WIN-TE7I9U6FG54
+    DataBasePath    REG_EXPAND_SZ    %SystemRoot%\System32\drivers\etc
+    NameServer    REG_SZ    
+    ForwardBroadcasts    REG_DWORD    0x0
+    IPEnableRouter    REG_DWORD    0x0
+    Domain    REG_SZ    
+    Hostname    REG_SZ    WIN-TE7I9U6FG54
+    SearchList    REG_SZ    
+    UseDomainNameDevolution    REG_DWORD    0x1
+    EnableICMPRedirect    REG_DWORD    0x1
+    DeadGWDetectDefault    REG_DWORD    0x1
+    DontAddDefaultGatewayDefault    REG_DWORD    0x0
+    DhcpNameServer    REG_SZ    192.168.13.2
+    DhcpDomain    REG_SZ    localdomain
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Adapters
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\DNSRegisteredAdapters
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\NsiObjectSecurity
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\PersistentRoutes
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Winsock

@@ -1,0 +1,56 @@
+다음과 같은 Windows 서비스가 시작되었습니다.
+
+   Application Experience
+   Application Host Helper Service
+   Application Information
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   COM+ Event System
+   Cryptographic Services
+   DCOM Server Process Launcher
+   DHCP Client
+   Diagnostic Policy Service
+   Distributed Link Tracking Client
+   Distributed Transaction Coordinator
+   DNS Client
+   DNS Server
+   Group Policy Client
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Microsoft FTP Service
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   OpenSSH Authentication Agent
+   OpenSSH SSH Server
+   Plug and Play
+   Power
+   Print Spooler
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Server
+   Shell Hardware Detection
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   Themes
+   User Access Logging Service
+   User Profile Service
+   Windows Connection Manager
+   Windows Error Reporting Service
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Management Instrumentation
+   Windows Process Activation Service
+   Windows Remote Management (WS-Management)
+   Windows Update
+   WinHTTP Web Proxy Auto-Discovery Service
+   Workstation
+   World Wide Web Publishing Service
+
+명령을 잘 실행했습니다.
+

@@ -1,0 +1,5 @@
+[W-44] 시작 - 실행 - SECPOL.MSC - 로컬정책 - 보안옵션  “장치 : 이동식 미디어 포맷 및 꺼내기 허용” 정책을 “Administrators” 로 설정 
+[W-44] 시작 - 실행 - SECPOL.MSC - 로컬정책 - 보안옵션  “장치 : 이동식 미디어 포맷 및 꺼내기 허용” 정책을 “Administrators” 로 설정 
+[W-44] 시작 - 실행 - SECPOL.MSC - 로컬정책 - 보안옵션  “장치 : 이동식 미디어 포맷 및 꺼내기 허용” 정책을 “Administrators” 로 설정 
+[W-44] 시작 - 실행 - SECPOL.MSC - 로컬정책 - 보안옵션  “장치 : 이동식 미디어 포맷 및 꺼내기 허용” 정책을 “Administrators” 로 설정 
+[W-44] 시작 - 실행 - SECPOL.MSC - 로컬정책 - 보안옵션  “장치 : 이동식 미디어 포맷 및 꺼내기 허용” 정책을 “Administrators” 로 설정 

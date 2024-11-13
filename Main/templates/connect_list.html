@@ -1,0 +1,143 @@
+{% extends 'base.html' %} {% load static %} {% block content %}
+<head>
+  <style>
+    /* Global Styles */
+
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    /* Table Styles */
+    .table {
+      border-collapse: collapse;
+      width: 90%;
+      margin: 3em auto;
+    }
+
+    .table thead th {
+      padding: 10px;
+      background-color: #1c2a48;
+      color: #fff;
+      border: 1px solid #1c2a48;
+    }
+
+    .table tbody tr:nth-child(even) {
+      background-color: #f4f4f8;
+    }
+
+    .table tbody tr:hover {
+      background-color: #ddd;
+      cursor: pointer;
+    }
+
+    .table tbody td {
+      padding: 10px;
+      text-align: center;
+      border: 1px solid #ddd;
+    }
+
+    /* Title text */
+    h2 {
+      text-align: center;
+      margin-bottom: 2em;
+    }
+
+    /* Graph container */
+    .graph-container {
+      width: 100%;
+      background-color: red;
+      position: relative;
+      padding-top: 5px;
+      border-radius: 5px;
+    }
+
+    /* Bar */
+    .graph-bar {
+      height: 20px;
+      position: absolute;
+      background-color: #4caf50;
+      text-align: center;
+      font-weight: bold;
+      color: white;
+      line-height: 20px;
+      border-radius: 5px;
+    }
+
+    /* Buttons */
+    .btn {
+      font-size: 0.9em;
+      padding: 5px;
+      margin: 5px;
+      border: none;
+      outline: none;
+      color: #fff;
+    }
+
+    .btn-primary {
+      background-color: #007bff;
+    }
+
+    .btn-warning {
+      background-color: #ffc107;
+    }
+
+    .btn-primary:hover,
+    .btn-warning:hover {
+      opacity: 0.8;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<h2>{{ user.username }}님의 자동 진단 결과</h2>
+<table class="table">
+  <thead>
+    <tr>
+      <th>이 름</th>
+      <th>계정 관리</th>
+      <th>서비스 관리</th>
+      <th>패치 관리</th>
+      <th>로그 관리</th>
+      <th>보안 관리</th>
+      <th>업로드 시각</th>
+      <th>다운로드</th>
+      <th>삭제</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for Main_autoupload in items %} {%if Main_autoupload.user == user.username%} {% load custom_filters %}
+    <tr>
+      <td>{{ Main_autoupload.user }}</td>
+      <td>
+        <div class="graph-container">
+          <div class="graph-bar" style="width: {{ Main_autoupload.AscorePer }}%;">{{ Main_autoupload.AscorePer }}</div>
+        </div>
+      </td>
+      <td>
+        <div class="graph-container">
+          <div class="graph-bar" style="width: {{ Main_autoupload.SscorePer }}%;">{{ Main_autoupload.SscorePer }}</div>
+        </div>
+      </td>
+      <td>
+        <div class="graph-container">
+          <div class="graph-bar" style="width: {{ Main_autoupload.PscorePer }}%;">{{ Main_autoupload.PscorePer }}</div>
+        </div>
+      </td>
+      <td>
+        <div class="graph-container">
+          <div class="graph-bar" style="width: {{ Main_autoupload.LscorePer }}%;">{{ Main_autoupload.LscorePer }}</div>
+        </div>
+      </td>
+      <td>
+        <div class="graph-container">
+          <div class="graph-bar" style="width: {{ Main_autoupload.SescorePer }}%;">{{ Main_autoupload.SescorePer }}</div>
+        </div>
+      </td>
+      <td>{{ Main_autoupload.create_date }}</td>
+      <td><a href="{{ Main_autoupload.file.url }}" download class="btn btn-primary btn-sm">Download</a></td>
+      <td><a href="{% url 'connect_list_delete' Main_autoupload.pk %}" class="btn btn-warning btn-sm">Delete </a></td>
+    </tr>
+    {% endif %}{% endfor %}
+  </tbody>
+</table>
+{% endblock %}

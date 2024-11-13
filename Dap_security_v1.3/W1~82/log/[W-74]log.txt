@@ -1,0 +1,17 @@
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\LanmanServer\Parameters
+    EnableAuthenticateUserSharing    REG_DWORD    0x0
+    ServiceDllUnloadOnStop    REG_DWORD    0x1
+    ServiceDll    REG_EXPAND_SZ    %SystemRoot%\system32\srvsvc.dll
+    NullSessionPipes    REG_MULTI_SZ    
+    autodisconnect    REG_DWORD    0xf
+    enableforcedlogoff    REG_DWORD    0x1
+    enablesecuritysignature    REG_DWORD    0x0
+    requiresecuritysignature    REG_DWORD    0x0
+    restrictnullsessaccess    REG_DWORD    0x1
+    Lmannounce    REG_DWORD    0x0
+    Size    REG_DWORD    0x3
+    AdjustedNullSessionPipes    REG_DWORD    0x3
+    Guid    REG_BINARY    BBD1122DD46BE24FA8FB84BB8915305C
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\LanmanServer\Parameters\FsctlAllowlist

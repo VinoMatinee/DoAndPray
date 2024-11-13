@@ -1,0 +1,12 @@
+[W-79] 명령어 프롬프트[DOS창]에서 다음과 같이 입력 
+[W-79] 시작 - 실행 - CMD - convert D: /fs:ntfs 
+[W-79] 명령어 프롬프트[DOS창]에서 다음과 같이 입력 
+[W-79] 시작 - 실행 - CMD - convert E: /fs:ntfs 
+[W-79] 명령어 프롬프트[DOS창]에서 다음과 같이 입력 
+[W-79] 시작 - 실행 - CMD - convert D: /fs:ntfs 
+[W-79] 명령어 프롬프트[DOS창]에서 다음과 같이 입력 
+[W-79] 시작 - 실행 - CMD - convert D: /fs:ntfs 
+[W-79] 명령어 프롬프트[DOS창]에서 다음과 같이 입력 
+[W-79] 시작 - 실행 - CMD - convert D: /fs:ntfs 
+[W-79] 명령어 프롬프트[DOS창]에서 다음과 같이 입력 
+[W-79] 시작 - 실행 - CMD - convert D: /fs:ntfs 

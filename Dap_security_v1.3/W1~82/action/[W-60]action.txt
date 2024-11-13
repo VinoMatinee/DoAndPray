@@ -1,0 +1,5 @@
+[W-60] 시작-실행-SERVICES.MSC-SNMP Service 속성-"시작 유형"을 "사용 안함"으로 설정-SNMP 서비스 중지 
+[W-60] 시작-실행-SERVICES.MSC-SNMP Service 속성-"시작 유형"을 "사용 안함"으로 설정-SNMP 서비스 중지 
+[W-60] 시작-실행-SERVICES.MSC-SNMP Service 속성-"시작 유형"을 "사용 안함"으로 설정-SNMP 서비스 중지 
+[W-60] 시작-실행-SERVICES.MSC-SNMP Service 속성-"시작 유형"을 "사용 안함"으로 설정-SNMP 서비스 중지 
+[W-60] 시작-실행-SERVICES.MSC-SNMP Service 속성-"시작 유형"을 "사용 안함"으로 설정-SNMP 서비스 중지 
